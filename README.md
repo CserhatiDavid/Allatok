@@ -1,3 +1,3 @@
 # Állatkert
 
-Állatok szimulációja
+Állatok szimulációja.
